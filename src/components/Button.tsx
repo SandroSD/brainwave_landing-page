@@ -8,7 +8,7 @@ const Button = ({
   white,
   px,
 }: {
-  className: string;
+  className?: string;
   href?: string;
   onClick?: () => void;
   children: React.ReactNode;

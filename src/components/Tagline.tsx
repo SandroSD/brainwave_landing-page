@@ -4,7 +4,7 @@ const Tagline = ({
   className,
   children,
 }: {
-  className: string;
+  className?: string;
   children: React.ReactNode;
 }) => {
   return (
