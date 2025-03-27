@@ -12,7 +12,7 @@ import { Gradient } from "./design/Hero";
 
 const Services = () => {
   return (
-    <Section id="hot-to-use">
+    <Section id="how-to-use">
       <div className="container">
         <Heading
           title="Generative AI made for creators."
